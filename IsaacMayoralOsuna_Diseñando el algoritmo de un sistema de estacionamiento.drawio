@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="N2TijEW33AsDCNrHGFGk">
+    <mxGraphModel dx="2298" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-21" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Tio4Mt13xS4k5-K0IEx-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-23" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Tio4Mt13xS4k5-K0IEx-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-26" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Tio4Mt13xS4k5-K0IEx-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿persona registrada?&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="120" x="330" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-29" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="0Tio4Mt13xS4k5-K0IEx-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Lugares disponibles?" vertex="1">
+          <mxGeometry height="110" width="120" x="530" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-27" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-13" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;mostrar: &quot;accseso denegado: Usuario no registrado&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="100" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-22" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Tio4Mt13xS4k5-K0IEx-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;ingresar: matricula, registros, espacio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="305" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-15" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;mostrar: &quot;acceso denegado: Estacionamiento lleno&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22shape%3Dparallelogram%3Bperimeter%3DparallelogramPerimeter%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BshapeInside%3D1%3BfixedSize%3D1%3B%22%20value%3D%22%26lt%3Bdiv%26gt%3Bmostrar%3A%20%26quot%3Baccseso%20denegado%3A%20Usuario%20no%20registrado%26quot%3B%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22170%22%20x%3D%22120%22%20y%3D%22330%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="410" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-31" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="0Tio4Mt13xS4k5-K0IEx-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="742.037037037037" y="585" as="sourcePoint" />
+            <mxPoint x="735" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-19" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;mostrar: &quot;acceso permitido: bienvenido&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="640" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="fin&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="430" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-30" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="490" />
+              <mxPoint x="710" y="490" />
+            </Array>
+            <mxPoint x="630" y="470" as="sourcePoint" />
+            <mxPoint x="710" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-32" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-15" style="endArrow=classic;html=1;rounded=0;exitX=0.447;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="620" as="sourcePoint" />
+            <mxPoint x="485.99" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-33" edge="1" parent="1" source="0Tio4Mt13xS4k5-K0IEx-19" style="endArrow=classic;html=1;rounded=0;exitX=0.454;exitY=1.057;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="0Tio4Mt13xS4k5-K0IEx-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="760" />
+            </Array>
+            <mxPoint x="530" y="630" as="sourcePoint" />
+            <mxPoint x="580" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0Tio4Mt13xS4k5-K0IEx-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="760" />
+            </Array>
+            <mxPoint x="185" y="590" as="sourcePoint" />
+            <mxPoint x="230" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="si" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="si" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Espacios disponibles = Espacios disponibles - 1" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-44" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="explicacion" vertex="1">
+          <mxGeometry height="720" width="240" x="-413" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-45" parent="0Tio4Mt13xS4k5-K0IEx-44" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;1. Identificación del Problema&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;El objetivo es diseñar la lógica de un sistema automatizado&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;para el control de acceso vehicular en el estacionamiento de Plaza Galerías, el&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;sistema debe validar dos condiciones obligatorias antes de permitir el ingreso.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Que el usuario esté registrado y que existan lugares libres y actualizar en&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tiempo real la cantidad de espacios disponibles.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="240" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-46" parent="0Tio4Mt13xS4k5-K0IEx-44" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;lt;br/&amp;gt;&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;2. Identificación de las Entradas&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0cm&quot; type=&quot;disc&quot;&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Matrícula:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;br&gt;     Cadena de texto que identifica el vehículo del conductor.&lt;/span&gt;&lt;/li&gt;&lt;br&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Registrado:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;br&gt;     Dato booleano o indicador (Sí / No) que valida si el usuario está en la&lt;br&gt;     base de datos.&lt;/span&gt;&lt;/li&gt;&lt;br&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Espacios&lt;br&gt;     Disponibles:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;&amp;lt;br/&amp;gt;     font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt; Valor numérico entero que representa la&lt;br&gt;     cantidad de cajones libres en ese momento.&lt;/span&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="260" width="240" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-47" parent="0Tio4Mt13xS4k5-K0IEx-44" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;lt;br/&amp;gt;&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;3. Identificación de los Procesos&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0cm&quot; type=&quot;disc&quot;&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Consulta&lt;br&gt;     de registro:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;&amp;lt;br/&amp;gt;     font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt; Comparación de la matrícula ingresada con&lt;br&gt;     la base de datos.&lt;/span&gt;&lt;/li&gt;&lt;br&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Evaluación&lt;br&gt;     de cupo:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;&amp;lt;br/&amp;gt;     font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt; Comprobación matemática de si los&lt;br&gt;     espacios libres son mayores a cero (Espacios Disponibles &amp;gt; 0).&lt;/span&gt;&lt;/li&gt;&lt;br&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Actualización&lt;br&gt;     de inventario:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;&amp;lt;br/&amp;gt;     font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt; Cálculo aritmético para descontar el&lt;br&gt;     lugar ocupado cuando el acceso es autorizado:&lt;/span&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="280" width="240" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-53" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="880" width="240" x="-170" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-54" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;lt;br/&amp;gt;&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;4. Identificación de las Decisiones&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;lt;br/&amp;gt;&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Son los puntos de bifurcación donde el algoritmo toma un&lt;br&gt;camino según se cumpla o no una condición:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0cm&quot; type=&quot;disc&quot;&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Primera&lt;br&gt;     decisión (¿Persona registrada?):&lt;/span&gt;&lt;/b&gt;&lt;/li&gt;&lt;ul style=&quot;margin-top:0cm&quot; type=&quot;circle&quot;&gt;  &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;No:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;br&gt;      El sistema desvía el flujo hacia el mensaje de error por falta de&lt;br&gt;      registro y finaliza el proceso.&lt;/span&gt;&lt;/li&gt;  &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Sí:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;br&gt;      El sistema permite avanzar a la siguiente comprobación.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Segunda&lt;br&gt;     decisión (¿Lugares disponibles?):&lt;/span&gt;&lt;/b&gt;&lt;/li&gt;&lt;ul style=&quot;margin-top:0cm&quot; type=&quot;circle&quot;&gt;  &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;No:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt; El&lt;br&gt;      sistema desvía el flujo hacia el mensaje de error por estacionamiento&lt;br&gt;      lleno y finaliza el proceso.&lt;/span&gt;&lt;/li&gt;  &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Sí:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;br&gt;      El sistema autoriza la operación de resta y permite el paso.&lt;/span&gt;&lt;/li&gt;&lt;br&gt; &lt;/ul&gt;&lt;br&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="390" width="240" x="-170" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-55" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;lt;br/&amp;gt;&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;5. Identificación de las Salidas&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;lt;br/&amp;gt;&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Son las respuestas o resultados visuales que el sistema devuelve&lt;br&gt;al usuario o pantalla:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0cm&quot; type=&quot;disc&quot;&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Salida&lt;br&gt;     1 (Denegación por registro):&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;&amp;lt;br/&amp;gt;     line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt; Muestra el mensaje &quot;Acceso&lt;br&gt;     denegado: Usuario no registrado&quot;.&lt;/span&gt;&lt;/li&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Salida&lt;br&gt;     2 (Denegación por cupo):&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;&amp;lt;br/&amp;gt;     line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt; Muestra el mensaje &quot;Acceso&lt;br&gt;     denegado: Estacionamiento lleno&quot;.&lt;/span&gt;&lt;/li&gt; &lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Salida&lt;br&gt;     3 (Acceso concedido):&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:&amp;lt;br/&amp;gt;     107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt; Muestra el mensaje &quot;Acceso&lt;br&gt;     permitido: Bienvenido&quot; junto con la confirmación de la reducción del&lt;br&gt;     cupo.&lt;/span&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="300" width="240" x="-170" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="0Tio4Mt13xS4k5-K0IEx-56" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;lt;br/&amp;gt;&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;6. Construcción del Algoritmo&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:8.0pt;line-height:107%;font-family:&amp;lt;br/&amp;gt;&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;Consiste en la integración secuencial de los puntos&lt;br&gt;anteriores reflejada en el diagrama de flujo: se inicia con la lectura de las&lt;br&gt;entradas, pasa por el primer rombo de decisión (registro), si se aprueba pasa&lt;br&gt;al segundo rombo (disponibilidad), realiza el proceso de decremento del espacio&lt;br&gt;y concluye mostrando la salida correspondiente en el bloque final.&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="230" width="240" x="-170" y="690" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

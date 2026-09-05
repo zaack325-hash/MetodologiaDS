@@ -1,0 +1,43 @@
+Nombre: Isaac Mayoral Osuna
+Materia: Metodología de la Programación
+Actividad: Tarea 1.3 - Investigar qué es el Pseudocódigo
+
+**¿Qué es un pseudocódigo?**
+El pseudocódigo es una forma informal y de alto nivel de describir el funcionamiento de un algoritmo utilizando un lenguaje natural y estructurado, similar al lenguaje humano, combinado con algunas convenciones de programación. No posee una sintaxis estricta como un lenguaje de programación real, lo que permite enfocarse exclusivamente en la lógica de la solución de un problema sin preocuparse por la sintaxis específica de una computadora.
+
+**¿Para qué se utiliza?**
+Se utiliza principalmente como una herramienta de planificación y diseño en las etapas iniciales del desarrollo de software para estructurar la lógica de un programa antes de escribir el código definitivo. Facilita la comunicación de algoritmos entre programadores y personas no técnicas, permitiendo detectar fallas de lógica, optimizar procesos y organizar claramente las instrucciones de entrada, proceso y salida de un sistema.
+
+**¿Qué relación existe entre un algoritmo y un pseudocódigo?**
+La relación que existe es que el algoritmo representa la secuencia conceptual, finita y abstracta de pasos lógicos para resolver un problema, mientras que el pseudocódigo es una forma específica y textual de expresar o representar dicho algoritmo. En otras palabras, el algoritmo es la idea o estrategia de solución y el pseudocódigo es el medio intermedio escrito para plasmar esa estrategia de manera entendible para los humanos antes de codificarla.
+
+**¿Cuáles son las principales características de un pseudocódigo?**
+Sus principales características son que no está atado a las reglas sintácticas de ningún lenguaje de programación en particular, utiliza un lenguaje claro, sencillo y estructurado en español u otro idioma, emplea palabras clave estandarizadas para representar estructuras de control (como inicio, fin, si-entonces, mientras), mantiene un orden lógico y secuencial mediante sangrías o indentaciones, y es altamente legible y fácil de modificar por cualquier persona.
+
+**¿Qué ventajas tiene desarrollar un pseudocódigo antes de comenzar a programar?**
+Desarrollar un pseudocódigo antes de programar permite aislar la lógica del problema de la complejidad sintáctica del lenguaje, lo que ayuda a identificar errores o vacíos en el razonamiento de forma rápida y económica. Además, ahorra tiempo considerable durante la fase de codificación, simplifica la posterior traducción del algoritmo a cualquier lenguaje de programación objetivo y sirve como una documentación clara y accesible para el mantenimiento o revisión futura del proyecto.
+
+Algoritmo Calcular_el_area_de_una_figura_geometrica
+
+	Escribir "que area de figura quieres hacer"
+	Escribir "triangulo/cuadrado"
+	Leer figura
+	Mientras figura <> "cuadrado" Y figura <> "triangulo" Hacer
+        Escribir "Dato erroneo eliga una figura (triangulo/cuadrado)"
+        Leer figura
+    FinMientras
+	Si figura = "triangulo" Entonces
+		Escribir "ingrese la base del triangulo"
+		Leer baseT
+		Escribir "ingrese la altura del triangulo"
+		Leer alturaT
+		areaT<-(baseT*alturaT)/2
+		Escribir "el area del triangulo es:" areaT
+	SiNo
+		Escribir "ingrese el lado del cuadrado"
+		Leer LadoC
+		areaC<-LadoC^2
+		Escribir "el area del cuadrado es:" areaC
+	Fin Si
+
+FinAlgoritmo
